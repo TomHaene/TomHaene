@@ -2,7 +2,7 @@
 ![Header](./github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Tom Haene</h1>
-<h3 align="center">I'm a 4th-year Electrical Engineering Student @ McGill University with a matched passion for Software Engineering</h3>
+<h3 align="center">I'm a 4th-year Electrical Engineering Student @ McGill University with a matched passion for Web Development</h3>
 
 - 🔭 I’m currently working on [Adding new features to my Study timer Chrome Extension](https://chromewebstore.google.com/detail/study-sync/dlgnlhemoahmocicklcanfcoigdkblfa?hl=en-US&utm_source=ext_sidebar)
 
