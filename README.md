@@ -1,6 +1,4 @@
 
-![Header](./github-header-image2.png)
-
 <h1 align="center">Hi 👋, I'm Tom Haene</h1>
 <h3 align="center">I'm a 4th-year Electrical Engineering Student @ McGill University with a matched passion for Web Development</h3>
 
